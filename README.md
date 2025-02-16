@@ -8,6 +8,7 @@ my_project/
 ├── backend/
 │   ├── app/
 │   │   └── templates/
+
 │   ├── basic/         
 │   ├── manage.py
 │   ├── python-dockerfile
@@ -31,7 +32,7 @@ docker-compose up --build -d
 
 6. Testing the Application
 Once all services are running, access the application via:
-🔗 http://20.51.219.233:8000
+🔗 http://IP-Address:8000
 
 7. To verify the database entries from the container:
 docker exec -it my_project_db_1 mysql -u root -p
