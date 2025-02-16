@@ -4,7 +4,7 @@ This project sets up a Django-based web application with a MySQL database using 
 
 Pre-requisite:
 1. Install Docker and Docker Compose
-2. Have a Django/Python Web Application
+2. Have a Django/Python Web Application (https://github.com/varunsimha-MP/Django_CRUD_Basic-main-.git)
    
 **Project Structure:**
 my_project/
