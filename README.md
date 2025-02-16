@@ -2,6 +2,10 @@
 
 This project sets up a Django-based web application with a MySQL database using Docker and Docker Compose. It provides a structured directory for managing backend services and database configurations efficiently.
 
+Pre-requisite:
+1. Install Docker and Docker Compose
+2. Have a Django/Python Web Application
+   
 **Project Structure:**
 my_project/
 
