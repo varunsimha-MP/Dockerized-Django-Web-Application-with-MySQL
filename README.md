@@ -4,14 +4,15 @@ This project sets up a Django-based web application with a MySQL database using 
 
 **Project Structure:**
 my_project/
+
 ├── backend/
 │   ├── app/
 │   │   └── templates/
-│   │       └── insert.html
 │   ├── basic/         
 │   ├── manage.py
 │   ├── python-dockerfile
 │   └── requirements.txt or directly we can mentioned in dockerfile which are the package requireds. 
+
 ├── db/
 │   └── mysql.sql  # Database initialization script
 └── docker-compose.yml
